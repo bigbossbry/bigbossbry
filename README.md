@@ -35,8 +35,8 @@ Here are some ideas to get you started:
     </h1>
 </div>
 
-<div id="about_me" align=center">
-    <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="600" height="300">
+<div id="about_me" align="center">
+    <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="600" height="600">
 </div>
 
 ---
