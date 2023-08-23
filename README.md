@@ -39,7 +39,8 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="300" height="300">
 </div>
 :man_technologist: About Me:  
-
+  
+  
 I am a Self-Taught Full Stack Web Developer from the Philippines  
 
 
