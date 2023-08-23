@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="about_me" align=center">
-    <img src="https://unsplash.com/photos/EhTcC9sYXsw" width="600" height="400">
-    <!--Credits to unsplash domenico loia-->
+    <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="600" height="300">
 </div>
 
 ---
