@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 
 <div id="about_me" align="center">
     <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="600" height="600">
+    
+    :man_technologist: About Me:
+
+    I am a Self-Taught Full Stack Web Developer from the Philippines
+
+    - :computer: I am currently learning how to develop websites through project based learning by following the curriculums of The Odin Project and freeCodeCamp.
+    - :thinking: Other interests include AI, Machine Learning, Graphic Design, and Technology.
+    - :watch: I spend my spare time with my loved ones and my beloved dogs.
 </div>
 
----
-:man_technologist: About Me:
-
-I am a Self-Taught Full Stack Web Developer from the Philippines
-
-- :computer: I am currently learning how to develop websites through project based learning by following the curriculums of The Odin Project and freeCodeCamp.
-- :thinking: Other interests include AI, Machine Learning, Graphic Design, and Technology.
-- :watch: I spend my spare time with my loved ones and my beloved dogs.
 
 ---
 
