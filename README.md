@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 </div>
 :man_technologist: About Me:
   
+  
  I am a Self-Taught Full Stack Web Developer from the Philippines
 
 - :computer: I am currently learning how to develop websites through project based learning by following the curriculums of The Odin Project and freeCodeCamp.
