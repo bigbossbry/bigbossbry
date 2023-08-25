@@ -39,13 +39,13 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="300" height="300">
 </div>
 :man_technologist: About Me:  
-&nbsp;    
+<br/>   
 I am a Self-Taught Full Stack Web Developer from the Philippines.  
-&nbsp;  
+<br/>  
 - :computer: I am currently learning how to develop websites through project based learning by following the curriculums of The Odin Project and freeCodeCamp.
 - :thinking: Other interests include AI, Machine Learning, Graphic Design, and Technology.
 - :watch: I spend my spare time with my loved ones and my beloved dogs.
-&nbsp;  
+<br/>  
 ---
 
 ### :wrench: Current Technologies and Tools:
@@ -57,7 +57,7 @@ I am a Self-Taught Full Stack Web Developer from the Philippines.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-&nbsp;  
+<br/>  
 ---
 
 ### :file_folder: CMS Software:
@@ -66,7 +66,7 @@ I am a Self-Taught Full Stack Web Developer from the Philippines.
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"  title="WordPress" alt="wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  title="WooCommerce" alt="woocommerce" width="40" height="40"/>&nbsp;
 </div>    
-&nbsp;  
+<br/>    
 ---
 
 ### :hammer_and_wrench: Actively learning the following Technologies and Tools:
